@@ -25,4 +25,9 @@ Loading ...
     "9.tif"         31.201           0.97651           32.757           0.98217    
     "Average"        30.73             0.957           32.644             0.973    
 
-  <img width="1207" height="494" alt="image" src="https://github.com/user-attachments/assets/e9e40152-e162-4b19-b23e-d2476eef9fcf" />
+<img width="1207" height="494" alt="image" src="https://github.com/user-attachments/assets/e9e40152-e162-4b19-b23e-d2476eef9fcf" />
+
+<img width="1207" height="604" alt="image" src="https://github.com/user-attachments/assets/45e77fb4-c84f-44a5-a320-9ed9ae7264f4" />
+
+<img width="1207" height="537" alt="image" src="https://github.com/user-attachments/assets/0c67f816-2d1f-4c28-aec0-977c8ee5ad01" />
+
